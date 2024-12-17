@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Ben",
+        "img": "/images/sureman.png",
+        "desc": "He knows what you are."
+    },
+    {
+        "id": 1,
+        "name": "Rob",
+        "img": "/images/fear.png",
+        "desc": "Startled easily."
+    },
+    {
+        "id": 2,
+        "name": "Hunter",
+        "img": "/images/squareup.png",
+        "desc": "He's got hands."
+    },
+    {
+        "id": 3,
+        "name": "Ken",
+        "img": "/images/WAAAAAAAAA.jpg",
+        "desc": "A little sensitive."
+    },
+    {
+        "id": 4,
+        "name": "Zach",
+        "img": "/images/notrn.jpg",
+        "desc": "Had a little too much."
+    },
+    {
+        "id": 5,
+        "name": "Brian",
+        "img": "/images/looksinside.png",
+        "desc": "A little confused."
+    }
+]
