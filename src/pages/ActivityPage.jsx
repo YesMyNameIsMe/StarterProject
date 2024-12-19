@@ -1,4 +1,3 @@
-
 import React from 'react'
 import VoteComponent from '../components/VoteComponent'
 
@@ -15,3 +14,4 @@ function ActivityPage() {
   );
 }
 
+export default ActivityPage
