@@ -115,4 +115,5 @@ function VoteComponent() {
   )
 }
 
+
 export default VoteComponent
